@@ -1,0 +1,6 @@
+{
+    "python.venvPath": ".venv",
+    "python.analysis.extraPaths": [
+        "prox"
+    ]
+}
